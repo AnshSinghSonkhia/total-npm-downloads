@@ -1,0 +1,40 @@
+{
+  "name": "total-npm-downloads",
+  "version": "1.0.0",
+  "description": "Track the total package downloads of any NPM package from its launch date to today's date.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/total-npm-downloads.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-package",
+    "npm-package-downloads",
+    "total-downloads",
+    "total-npm-package-downloads",
+    "downloads",
+    "count",
+    "total-package-downloads",
+    "npm-stats",
+    "total-npm-stats",
+    "total-npm-package-stats",
+    "npm-statistics",
+    "npm-package-statistics"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/total-npm-downloads/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/total-npm-downloads#readme",
+  "dependencies": {
+    "flat-cache": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "thousand-colors": "^1.0.0"
+  }
+}
