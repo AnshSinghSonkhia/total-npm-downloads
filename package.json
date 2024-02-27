@@ -1,6 +1,6 @@
 {
   "name": "total-npm-downloads",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Track the total package downloads of any NPM package from its launch date to today's date.",
   "main": "index.js",
   "type": "module",
